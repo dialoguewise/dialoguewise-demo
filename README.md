@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://dialoguewise.com" target="_blank"><img src="https://github.com/kentmz/dialoguewise-demo/blob/master/screenshots/logo.png?raw=true"></a>
+<a href="https://dialoguewise.com" target="_blank"><img src="https://github.com/kentmz/dialoguewise-demo/blob/master/screenshots/logo.PNG?raw=true"></a>
 </p>  
 <br/>
 <p align="center">
