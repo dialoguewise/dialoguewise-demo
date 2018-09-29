@@ -17,7 +17,7 @@ Some of the advantages of using Dialogue Wise are:
 * Editing your content is a breeze and seamless. Also, since your content is delivered via API, you don't need to store your content or redeploy your apps.
 * You can have pilot versions of your content. This allows you to test new contents on your test environments and promote them to production when you are ready.
 
-Now let's look at an example that can give you a better understanding of Dialogue Wise. Let's say you have the following content on your website or mobile app:
+Let's look at an example that can give you a better understanding of Dialogue Wise. Let's say you have the following content on your website or mobile app:
 
 ```
 This is a car.
@@ -60,7 +60,7 @@ For .Net applications, you could use the below `Nuget` package to call the Api.
 Install-Package DialogueWise -Version 1.0.0
 ```
 
-Please refer the git repo which demonstrates usage if this Nuget and the example mentioned above. Below are the screenshots of the app that displays the content received from the Api.
+Please refer the git repo which demonstrates usage of this Nuget and the example mentioned above. Below are the screenshots of the app that displays the content received from the Api.
 
 <img src="https://github.com/kentmz/dialoguewise-demo/blob/master/screenshots/screenshot1.png?raw=true" width="500" height="200">
 <br/>
