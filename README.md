@@ -60,7 +60,7 @@ For .Net applications, you could use the below `Nuget` package to call the Api.
 Install-Package DialogueWise -Version 1.0.0
 ```
 
-Please refer the git repo which demonstrates usage of this Nuget and the example mentioned above. Below are the screenshots of the app that displays the content received from the Api.
+Please refer to [Program.cs](https://github.com/kentmz/dialoguewise-demo/blob/master/Program.cs) in the git repo which demonstrates usage of this Nuget and the example mentioned above. Below are the screenshots of the app that displays the content received from the Api.
 
 <img src="https://github.com/kentmz/dialoguewise-demo/blob/master/screenshots/screenshot1.png?raw=true" width="500" height="200">
 <br/>
