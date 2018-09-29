@@ -1,25 +1,29 @@
-<center><a href="https://dialoguewise.com" target="_blank"><img src="https://dialoguewise.com/images/logo.PNG"></a></center>  
+<p align="center">
+<a href="https://dialoguewise.com" target="_blank"><img src="https://github.com/kentmz/dialoguewise-demo/blob/master/screenshots/logo.png?raw=true"></a>
+</p>  
 <br/>
-<center>Programmable content delivered to you app via cloud API</center>  
+<p align="center">
+Programmable content delivered to you app via cloud API
+</p>  
 <br/>
 
 ## What is Dialogue Wise?
 
-Dialogue Wise is basically a CaaS platform where you can program your content and then the content will be delivered to your application based on the parameters provided.
+Dialogue Wise is a CaaS platform where you can program your content and then the content will be delivered to your application based on the parameters provided.
 
 Some of the advantages of using Dialogue Wise are:
 
 * Your content can be programmed. This will allow you to generate content based on the context provided.
 * Editing your content is a breeze and seamless. Also, since your content is delivered via API, you don't need to store your content or redeploy your apps.
-* You can have pilot versions of your content. This allows you to test them on your test environments and then promote them to production when you are ready.
+* You can have pilot versions of your content. This allows you to test new contents on your test environments and promote them to production when you are ready.
 
-Now let's look at an example that can give you a better understanding. Let's say you have the following content on your website or mobile app
+Now let's look at an example that can give you a better understanding of Dialogue Wise. Let's say you have the following content on your website or mobile app:
 
 ```
 This is a car.
 ```
 
-Now let's say you would like program the word `car` so that you could display `car` or `bike` based on a certain logic. With Dialogue Wise, you could do:
+Now let's say you would like to make the word `car` dynamic so that you could display `car` or `bike` based on a certain logic. With Dialogue Wise, you could do:
 
 ```
 This is a #Vehicle
@@ -56,9 +60,13 @@ For .Net applications, you could use the below `Nuget` package to call the Api.
 Install-Package DialogueWise -Version 1.0.0
 ```
 
-Please refer the git repo which demonstrates usage if this `Nuget` and the example mentioned above.
+Please refer the git repo which demonstrates usage if this Nuget and the example mentioned above. Below are the screenshots of the app that displays the content received from the Api.
 
+<img src="https://github.com/kentmz/dialoguewise-demo/blob/master/screenshots/screenshot1.png?raw=true" width="500" height="200">
+<br/>
+<img src="https://github.com/kentmz/dialoguewise-demo/blob/master/screenshots/screenshot2.png?raw=true" width="500" height="200">
 
+<br/>
 **Thank you!**
 
 
