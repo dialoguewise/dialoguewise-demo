@@ -9,6 +9,7 @@ namespace DialogueWiseDemo
     {
         static void Main(string[] args)
         {
+            Console.Title = "Dialogue Wise Demo";
             Console.WriteLine("Enter number of wheels");
             var input = Console.ReadLine();
 
