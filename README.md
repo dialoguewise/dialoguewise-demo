@@ -2,9 +2,9 @@
 <a href="https://dialoguewise.com" target="_blank"><img src="https://github.com/kentmz/dialoguewise-demo/blob/master/screenshots/logo.PNG?raw=true"></a>
 </p>  
 <br/>
-<p align="center">
-Headless CMS to Manage Multi-Platform Content
-</p>  
+<h1 align="center">
+Headless CMS for .Net
+</h1>  
 <br/>
 
 ## About this repo?
